@@ -92,7 +92,7 @@ color:var(--link-color) ;
       padding: 100px;
     
 
-      background-color: rgb(136, 192, 192);
+      background-color: black;
       display: flex;
       gap: 2rem;
       align-items: top;
